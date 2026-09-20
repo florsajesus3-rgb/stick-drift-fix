@@ -1,0 +1,14 @@
+{
+  "name": "stick-drift-fix-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Windows remapper shell for Stick Drift Fix (ViGEm)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^37.0.0"
+  }
+}
